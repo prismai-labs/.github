@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+<title id="title">Prism AI Labs — Dark brand banner</title>
+<desc id="desc">Prism AI Labs identity with its faceted violet, blue and cyan prism and the message Research. Writing. Developer tools.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset=".55" stop-color="#111A35"/><stop offset="1" stop-color="#10152B"/></linearGradient>
+<radialGradient id="gv"><stop stop-color="#8B5CF6" stop-opacity=".30"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<radialGradient id="gc"><stop stop-color="#13B8D4" stop-opacity=".25"/><stop offset="1" stop-color="#13B8D4" stop-opacity="0"/></radialGradient>
+<linearGradient id="mt" x2="1" y2="1"><stop stop-color="#9B5CFF"/><stop offset=".55" stop-color="#5A45F5"/><stop offset="1" stop-color="#176BFF"/></linearGradient>
+<linearGradient id="ml" x2=".8" y2="1"><stop stop-color="#5425D8"/><stop offset=".65" stop-color="#2149D8"/><stop offset="1" stop-color="#13B8D4"/></linearGradient>
+<linearGradient id="mr" x2="1" y2="1"><stop stop-color="#176BFF"/><stop offset=".55" stop-color="#3551ED"/><stop offset="1" stop-color="#943DFF"/></linearGradient>
+<linearGradient id="mb" x2="1" y2="1"><stop stop-color="#16CDE0"/><stop offset=".48" stop-color="#3453EF"/><stop offset="1" stop-color="#8B3DFA"/></linearGradient>
+<linearGradient id="rule"><stop stop-color="#9B5CFF"/><stop offset=".55" stop-color="#176BFF"/><stop offset="1" stop-color="#13B8D4"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8292C4" stroke-opacity=".11"/></pattern>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#B6C2E2" fill-opacity=".3"/></pattern>
+<filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1440" height="420" fill="url(#bg)"/><rect width="1440" height="420" fill="url(#grid)"/>
+<circle cx="1130" cy="192" r="330" fill="url(#gv)"/><circle cx="1290" cy="335" r="270" fill="url(#gc)"/>
+<rect x="1080" width="360" height="420" fill="url(#dots)" opacity=".52"/>
+<path d="M0 356C240 302 420 404 670 350S1080 275 1440 330" fill="none" stroke="#8292C4" stroke-opacity=".16" stroke-width="1.5"/>
+<path d="M0 380C290 325 445 432 710 378S1120 306 1440 360" fill="none" stroke="url(#rule)" stroke-opacity=".28" stroke-width="2"/>
+<g transform="translate(74 64)">
+<rect width="42" height="3" rx="1.5" fill="url(#rule)"/>
+<text y="31" fill="#BBA9FF" font-family="Inter,ui-sans-serif,system-ui,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.1">PRISMAI-LABS  /  SOFTWARE &amp; RESEARCH</text>
+<text x="-2" y="117" fill="#F6F8FF" font-family="Inter,ui-sans-serif,system-ui,Segoe UI,Arial,sans-serif" font-size="62" font-weight="760" letter-spacing="-2.6">Prism AI Labs</text>
+<text y="176" fill="#F6F8FF" font-family="Inter,ui-sans-serif,system-ui,Segoe UI,Arial,sans-serif" font-size="27" font-weight="650">Research. Writing. Developer tools.</text>
+<text y="218" fill="#B6C2E2" font-family="Inter,ui-sans-serif,system-ui,Segoe UI,Arial,sans-serif" font-size="17">Focused software for clearer thinking and practical AI workflows.</text>
+<g font-family="Inter,ui-sans-serif,system-ui,Segoe UI,Arial,sans-serif" font-size="11.5" font-weight="650" letter-spacing="1.1" fill="#F6F8FF">
+<rect y="263" width="171" height="37" rx="18.5" fill="#182449" stroke="#32416F"/><circle cx="18" cy="281.5" r="4" fill="#9B5CFF"/><text x="31" y="286.5">PRISM AI</text>
+<rect x="183" y="263" width="182" height="37" rx="18.5" fill="#182449" stroke="#32416F"/><circle cx="201" cy="281.5" r="4" fill="#176BFF"/><text x="214" y="286.5">PRISM ZERO</text>
+<rect x="377" y="263" width="215" height="37" rx="18.5" fill="#182449" stroke="#32416F"/><circle cx="395" cy="281.5" r="4" fill="#13B8D4"/><text x="408" y="286.5">DEVELOPER TOOLS</text>
+</g></g>
+<g transform="translate(1005 10) scale(.78)">
+<circle cx="256" cy="256" r="214" fill="#6B5BFF" opacity=".08" filter="url(#blur)"/>
+<circle cx="256" cy="256" r="198" fill="none" stroke="#8292C4" stroke-opacity=".24" stroke-width="1.2" stroke-dasharray="3 9"/>
+<circle cx="256" cy="256" r="172" fill="none" stroke="url(#rule)" stroke-opacity=".36" stroke-width="1.4"/>
+<g>
+<path d="M256 28 466 150 466 362 256 484 46 362 46 150Z M256 151 354 208 256 265 158 208Z" fill="url(#mt)" fill-rule="evenodd"/>
+<path d="M46 150 158 208 158 330 256 387 256 484 46 362Z" fill="url(#ml)"/>
+<path d="M466 150 354 208 354 330 256 387 256 484 466 362Z" fill="url(#mr)"/>
+<path d="M158 330 256 387 354 330 466 362 256 484 46 362Z" fill="url(#mb)" opacity=".93"/>
+<path d="M256 151 354 208 256 265 158 208Z" fill="#091124" opacity=".96"/></g>
+<path d="M256 28V-7M466 150 498 132M466 362 498 380M256 484V519M46 362 14 380M46 150 14 132" stroke="#8292C4" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="256" cy="-7" r="3" fill="#9B5CFF"/><circle cx="498" cy="132" r="3" fill="#176BFF"/><circle cx="498" cy="380" r="3" fill="#13B8D4"/>
+</g>
+<text x="1365" y="390" text-anchor="end" fill="#B6C2E2" font-family="Inter,ui-sans-serif,system-ui,Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="650" letter-spacing="2.2">GITHUB.COM/PRISMAI-LABS</text>
+</svg>
