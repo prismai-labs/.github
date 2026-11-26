@@ -25,6 +25,7 @@ A separate offline-first Python toolkit for generating candidate solutions, chec
 
 ### Developer tooling and documentation
 
+- [Prism Git Panic](https://github.com/prismai-labs/prism-git-panic) — a local-first Rust CLI for inspecting the Git reflog, previewing recovery, and explicitly preserving an available commit on a new branch.
 - [Prism SDK](https://github.com/prismai-labs/prism-sdk) — an early-stage TypeScript client helper.
 - [Prism Docs](https://github.com/prismai-labs/prism-docs) — the cross-project documentation index.
 
@@ -35,6 +36,7 @@ These supporting components are under development and should not be mistaken for
 - [Get Prism AI](https://github.com/prismai-labs/Prism-Ai/releases/latest)
 - [Product documentation and handbook](https://github.com/prismai-labs/Prism-Ai/tree/Main/docs)
 - [Prism AI browser workspace](https://prismai-labs.github.io/Prism-Ai/)
+- [Prism Git Panic source and guide](https://github.com/prismai-labs/prism-git-panic)
 - [Prism Zero validation notes](https://github.com/prismai-labs/prism-zero/blob/main/VALIDATION.md)
 - [Public organization repositories](https://github.com/orgs/prismai-labs/repositories)
 
